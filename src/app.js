@@ -1,10 +1,11 @@
-const express = require('express');
-const enableWs = require('express-ws');
+import express from 'express';
+import enableWs from 'express-ws';
 
-const newsService = require('./news/news-service');
+import * as newsService from './news/news-service';
 
 const app = express();
 enableWs(app);
+
 
 app.get('/', function(req, res) {
     res.send('Hello World!');
@@ -12,10 +13,10 @@ app.get('/', function(req, res) {
 
 app.ws('/news', (ws, req) => {
     console.log("opened the news socket");
-    ws.send(newsService.getNews());
+    ws.send(JSON.stringify(newsService.getNews()));
 
     ws.on('close', () => {
-        console.log('WebSocket was closed')
+        console.log('news socket closed');
     });
 });
 
@@ -23,13 +24,14 @@ app.ws('/echo', (ws, req) => {
     console.log("opened the echo socket");
 
     ws.on('message', msg => {
-        ws.send(msg)
+        ws.send(msg);
     })
 
     ws.on('close', () => {
-        console.log('WebSocket was closed')
+        console.log('echo socket closed');
     })
 });
+
 
 app.listen(8080, () => {
   console.log('Listening on http://localhost:8080');
