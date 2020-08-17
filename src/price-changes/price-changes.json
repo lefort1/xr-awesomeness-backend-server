@@ -1,0 +1,772 @@
+[
+    {
+      "holdingId": 70001925,
+      "price": 458.12,
+      "priceChange": -0.003285251
+    },
+    {
+      "holdingId": 70001995,
+      "price": 134.8,
+      "priceChange": 0.005970149
+    },
+    {
+      "holdingId": 70002029,
+      "price": 485.948,
+      "priceChange": 0.050562089
+    },
+    {
+      "holdingId": 70002038,
+      "price": 360.25,
+      "priceChange": -0.003319961
+    },
+    {
+      "holdingId": 70002057,
+      "price": 82.0717,
+      "priceChange": 0.009492005
+    },
+    {
+      "holdingId": 70002065,
+      "price": 9.13,
+      "priceChange": -0.00436205
+    },
+    {
+      "holdingId": 70002072,
+      "price": 11.76,
+      "priceChange": -0.02970297
+    },
+    {
+      "holdingId": 70002084,
+      "price": 57.695,
+      "priceChange": 0.011837952
+    },
+    {
+      "holdingId": 70002109,
+      "price": 131.5,
+      "priceChange": 0.007276905
+    },
+    {
+      "holdingId": 70002110,
+      "price": 23.81,
+      "priceChange": -0.005430242
+    },
+    {
+      "holdingId": 70002117,
+      "price": 62.08,
+      "priceChange": -0.025431711
+    },
+    {
+      "holdingId": 70002124,
+      "price": 15.26,
+      "priceChange": -0.023047375
+    },
+    {
+      "holdingId": 70002133,
+      "price": 10.88,
+      "priceChange": -0.008204193
+    },
+    {
+      "holdingId": 70002153,
+      "price": 76.35,
+      "priceChange": 0.009920635
+    },
+    {
+      "holdingId": 70002154,
+      "price": 386.85,
+      "priceChange": 0.00207227
+    },
+    {
+      "holdingId": 70002159,
+      "price": 95.54,
+      "priceChange": -0.007892004
+    },
+    {
+      "holdingId": 70002195,
+      "price": 282.35,
+      "priceChange": -0.003107015
+    },
+    {
+      "holdingId": 70002200,
+      "price": 2.124,
+      "priceChange": -0.015299026
+    },
+    {
+      "holdingId": 70002271,
+      "price": 25.9676,
+      "priceChange": -0.018979977
+    },
+    {
+      "holdingId": 70002279,
+      "price": 167000,
+      "priceChange": 0
+    },
+    {
+      "holdingId": 70002293,
+      "price": 58000,
+      "priceChange": 0
+    },
+    {
+      "holdingId": 70002404,
+      "price": 10.51,
+      "priceChange": 0.001906578
+    },
+    {
+      "holdingId": 70002412,
+      "price": 0.2863,
+      "priceChange": -0.011053541
+    },
+    {
+      "holdingId": 70002472,
+      "price": 1.139,
+      "priceChange": -0.015982721
+    },
+    {
+      "holdingId": 70002475,
+      "price": 698.6,
+      "priceChange": -0.004843305
+    },
+    {
+      "holdingId": 70002523,
+      "price": 2.29,
+      "priceChange": 0.004385965
+    },
+    {
+      "holdingId": 70002600,
+      "price": 43.33,
+      "priceChange": -0.010052547
+    },
+    {
+      "holdingId": 70002635,
+      "price": 72.665,
+      "priceChange": 0.004492673
+    },
+    {
+      "holdingId": 70002645,
+      "price": 50600,
+      "priceChange": 0
+    },
+    {
+      "holdingId": 70002649,
+      "price": 59.95,
+      "priceChange": 0.016963528
+    },
+    {
+      "holdingId": 70002750,
+      "price": 10530,
+      "priceChange": -0.020465116
+    },
+    {
+      "holdingId": 70002758,
+      "price": 376.6,
+      "priceChange": 0.022258415
+    },
+    {
+      "holdingId": 70002896,
+      "price": 504.5,
+      "priceChange": -0.003948667
+    },
+    {
+      "holdingId": 70002924,
+      "price": 928,
+      "priceChange": -0.000861326
+    },
+    {
+      "holdingId": 70002936,
+      "price": 207.25,
+      "priceChange": -0.006471716
+    },
+    {
+      "holdingId": 70002970,
+      "price": 282.84,
+      "priceChange": 0.008342246
+    },
+    {
+      "holdingId": 70002993,
+      "price": 143.88,
+      "priceChange": 0
+    },
+    {
+      "holdingId": 70003118,
+      "price": 1755.85,
+      "priceChange": -0.012940799
+    },
+    {
+      "holdingId": 70003137,
+      "price": 181.25,
+      "priceChange": -0.007284478
+    },
+    {
+      "holdingId": 70003235,
+      "price": 89.55,
+      "priceChange": -0.005
+    },
+    {
+      "holdingId": 70003310,
+      "price": 86100,
+      "priceChange": 0
+    },
+    {
+      "holdingId": 70003324,
+      "price": 156.72,
+      "priceChange": 0.0154205
+    },
+    {
+      "holdingId": 70003372,
+      "price": 101.91,
+      "priceChange": 0.011915401
+    },
+    {
+      "holdingId": 70003420,
+      "price": 210.07,
+      "priceChange": 0.005600766
+    },
+    {
+      "holdingId": 70003488,
+      "price": 45730,
+      "priceChange": -0.007595486
+    },
+    {
+      "holdingId": 70003502,
+      "price": 53.895,
+      "priceChange": -0.005627306
+    },
+    {
+      "holdingId": 70003539,
+      "price": 128.06,
+      "priceChange": -0.015982788
+    },
+    {
+      "holdingId": 70003544,
+      "price": 88.65,
+      "priceChange": -0.003596718
+    },
+    {
+      "holdingId": 70003609,
+      "price": 65.25,
+      "priceChange": -0.011363636
+    },
+    {
+      "holdingId": 70003626,
+      "price": 26.28,
+      "priceChange": 0.009604303
+    },
+    {
+      "holdingId": 70003639,
+      "price": 0,
+      "priceChange": 0
+    },
+    {
+      "holdingId": 70003640,
+      "price": 77.94,
+      "priceChange": 0.002830674
+    },
+    {
+      "holdingId": 70003649,
+      "price": 60.1,
+      "priceChange": 0.003338898
+    },
+    {
+      "holdingId": 70003703,
+      "price": 33.45,
+      "priceChange": 0.005108173
+    },
+    {
+      "holdingId": 70003719,
+      "price": 0,
+      "priceChange": 0
+    },
+    {
+      "holdingId": 70003743,
+      "price": 113.05,
+      "priceChange": 0.000619579
+    },
+    {
+      "holdingId": 70003777,
+      "price": 654,
+      "priceChange": 0.006153846
+    },
+    {
+      "holdingId": 70003825,
+      "price": 3173.71,
+      "priceChange": 0.008160685
+    },
+    {
+      "holdingId": 70003866,
+      "price": 6.908,
+      "priceChange": -0.005041049
+    },
+    {
+      "holdingId": 70003881,
+      "price": 86.27,
+      "priceChange": 0.009478118
+    },
+    {
+      "holdingId": 70003900,
+      "price": 24.715,
+      "priceChange": -0.02312253
+    },
+    {
+      "holdingId": 70003922,
+      "price": 43.85,
+      "priceChange": -0.002729134
+    },
+    {
+      "holdingId": 70004045,
+      "price": 46.93,
+      "priceChange": -0.021680217
+    },
+    {
+      "holdingId": 70004089,
+      "price": 39.2,
+      "priceChange": 0.00102145
+    },
+    {
+      "holdingId": 70004106,
+      "price": 85.65,
+      "priceChange": 0.021954421
+    },
+    {
+      "holdingId": 70004216,
+      "price": 98.295,
+      "priceChange": 0.009499846
+    },
+    {
+      "holdingId": 70004239,
+      "price": 74.68,
+      "priceChange": 0.004033342
+    },
+    {
+      "holdingId": 70004251,
+      "price": 42.115,
+      "priceChange": -0.009058824
+    },
+    {
+      "holdingId": 70004283,
+      "price": 26.7884,
+      "priceChange": -0.024457393
+    },
+    {
+      "holdingId": 70004333,
+      "price": 719,
+      "priceChange": 0.014032861
+    },
+    {
+      "holdingId": 70004334,
+      "price": 204.11,
+      "priceChange": -0.018560369
+    },
+    {
+      "holdingId": 70004465,
+      "price": 482.625,
+      "priceChange": -0.000113947
+    },
+    {
+      "holdingId": 70004499,
+      "price": 109.02,
+      "priceChange": 0.002943882
+    },
+    {
+      "holdingId": 70004557,
+      "price": 81.2,
+      "priceChange": 0.009950249
+    },
+    {
+      "holdingId": 70004604,
+      "price": 17.375,
+      "priceChange": 0.009001161
+    },
+    {
+      "holdingId": 70004614,
+      "price": 22.38,
+      "priceChange": -0.011047282
+    },
+    {
+      "holdingId": 70004684,
+      "price": 203.89,
+      "priceChange": 0.011810828
+    },
+    {
+      "holdingId": 70004726,
+      "price": 73.22,
+      "priceChange": 0.007152682
+    },
+    {
+      "holdingId": 70004750,
+      "price": 24.04,
+      "priceChange": 0.007966457
+    },
+    {
+      "holdingId": 70004791,
+      "price": 9.72,
+      "priceChange": -0.004098361
+    },
+    {
+      "holdingId": 70004798,
+      "price": 354.31,
+      "priceChange": 0.019421107
+    },
+    {
+      "holdingId": 70004821,
+      "price": 208.565,
+      "priceChange": -0.011352863
+    },
+    {
+      "holdingId": 70004956,
+      "price": 0,
+      "priceChange": 0
+    },
+    {
+      "holdingId": 70004974,
+      "price": 213.16,
+      "priceChange": 0.005045028
+    },
+    {
+      "holdingId": 70004976,
+      "price": 128.875,
+      "priceChange": -0.022637646
+    },
+    {
+      "holdingId": 70004988,
+      "price": 11.89,
+      "priceChange": -0.005020921
+    },
+    {
+      "holdingId": 70005000,
+      "price": 267.8,
+      "priceChange": 0.007145543
+    },
+    {
+      "holdingId": 70005039,
+      "price": 51.85,
+      "priceChange": -0.020404308
+    },
+    {
+      "holdingId": 70005041,
+      "price": 60.9,
+      "priceChange": 0.005448242
+    },
+    {
+      "holdingId": 70005063,
+      "price": 102.93,
+      "priceChange": -0.000388463
+    },
+    {
+      "holdingId": 70005126,
+      "price": 1183.73,
+      "priceChange": 0.023598284
+    },
+    {
+      "holdingId": 70005267,
+      "price": 31.92,
+      "priceChange": -0.010232558
+    },
+    {
+      "holdingId": 70005354,
+      "price": 101.5,
+      "priceChange": 0.000197083
+    },
+    {
+      "holdingId": 70005364,
+      "price": 377.48,
+      "priceChange": 0.017192132
+    },
+    {
+      "holdingId": 70005504,
+      "price": 261.001,
+      "priceChange": -0.000914868
+    },
+    {
+      "holdingId": 70005555,
+      "price": 77.67,
+      "priceChange": 0.005436893
+    },
+    {
+      "holdingId": 70005557,
+      "price": 564.6,
+      "priceChange": 0.016564638
+    },
+    {
+      "holdingId": 70005564,
+      "price": 14.16,
+      "priceChange": 0.011789925
+    },
+    {
+      "holdingId": 70005570,
+      "price": 46.12,
+      "priceChange": -0.011784873
+    },
+    {
+      "holdingId": 70005616,
+      "price": 305000,
+      "priceChange": 0
+    },
+    {
+      "holdingId": 70005671,
+      "price": 198.77,
+      "priceChange": 0.010831977
+    },
+    {
+      "holdingId": 70005776,
+      "price": 39.12,
+      "priceChange": 0.006431695
+    },
+    {
+      "holdingId": 70005816,
+      "price": 45.28,
+      "priceChange": -0.022030238
+    },
+    {
+      "holdingId": 70005838,
+      "price": 120.851,
+      "priceChange": 0.035215008
+    },
+    {
+      "holdingId": 70005842,
+      "price": 12.34,
+      "priceChange": -0.03894081
+    },
+    {
+      "holdingId": 70005883,
+      "price": 94.49,
+      "priceChange": -0.002849304
+    },
+    {
+      "holdingId": 70005982,
+      "price": 75.46,
+      "priceChange": 0.025550421
+    },
+    {
+      "holdingId": 70005983,
+      "price": 75.25,
+      "priceChange": 0.001997337
+    },
+    {
+      "holdingId": 70006049,
+      "price": 61.06,
+      "priceChange": 0.016903989
+    },
+    {
+      "holdingId": 70006060,
+      "price": 87.98,
+      "priceChange": -0.004075164
+    },
+    {
+      "holdingId": 70006066,
+      "price": 0,
+      "priceChange": 0
+    },
+    {
+      "holdingId": 70006074,
+      "price": 49.65,
+      "priceChange": -0.016831683
+    },
+    {
+      "holdingId": 70007535,
+      "price": 3444,
+      "priceChange": 0
+    },
+    {
+      "holdingId": 70008458,
+      "price": 2335,
+      "priceChange": 0.012136974
+    },
+    {
+      "holdingId": 70008939,
+      "price": 1124.15,
+      "priceChange": 0.01982219
+    },
+    {
+      "holdingId": 70009310,
+      "price": 41.07,
+      "priceChange": -0.01297765
+    },
+    {
+      "holdingId": 70009597,
+      "price": 30.19,
+      "priceChange": -0.022661055
+    },
+    {
+      "holdingId": 70011501,
+      "price": 87.1,
+      "priceChange": 0.008568782
+    },
+    {
+      "holdingId": 70012253,
+      "price": 1.132,
+      "priceChange": -0.023717119
+    },
+    {
+      "holdingId": 70012586,
+      "price": 94.6,
+      "priceChange": 0.006382979
+    },
+    {
+      "holdingId": 70012696,
+      "price": 137.6,
+      "priceChange": 0.009167583
+    },
+    {
+      "holdingId": 70013487,
+      "price": 261.07,
+      "priceChange": 0.010567469
+    },
+    {
+      "holdingId": 70015954,
+      "price": 216.815,
+      "priceChange": 0.01949029
+    },
+    {
+      "holdingId": 70016024,
+      "price": 82.825,
+      "priceChange": 0.000906344
+    },
+    {
+      "holdingId": 70016340,
+      "price": 24.48,
+      "priceChange": -0.018050542
+    },
+    {
+      "holdingId": 70016379,
+      "price": 254.52,
+      "priceChange": 0.00216561
+    },
+    {
+      "holdingId": 70016857,
+      "price": 11.125,
+      "priceChange": -0.008024967
+    },
+    {
+      "holdingId": 70017021,
+      "price": 1690,
+      "priceChange": 0.017459362
+    },
+    {
+      "holdingId": 70017053,
+      "price": 124.63,
+      "priceChange": 0.012922627
+    },
+    {
+      "holdingId": 70017277,
+      "price": 199.75,
+      "priceChange": 0.003264691
+    },
+    {
+      "holdingId": 70017374,
+      "price": 22.92,
+      "priceChange": 0.023671282
+    },
+    {
+      "holdingId": 70018887,
+      "price": 40,
+      "priceChange": -0.031476998
+    },
+    {
+      "holdingId": 70019610,
+      "price": 1516.36,
+      "priceChange": 0.005723836
+    },
+    {
+      "holdingId": 70019612,
+      "price": 1514.13,
+      "priceChange": 0.006313845
+    },
+    {
+      "holdingId": 70020478,
+      "price": 165,
+      "priceChange": 0.014198783
+    },
+    {
+      "holdingId": 70020632,
+      "price": 74.38,
+      "priceChange": -0.010246174
+    },
+    {
+      "holdingId": 70021642,
+      "price": 73.04,
+      "priceChange": -0.007338951
+    },
+    {
+      "holdingId": 70093466,
+      "price": 231.6,
+      "priceChange": 0.008710801
+    },
+    {
+      "holdingId": 70097144,
+      "price": 57.605,
+      "priceChange": -0.009542641
+    },
+    {
+      "holdingId": 70099812,
+      "price": 130.24,
+      "priceChange": 0.029565217
+    },
+    {
+      "holdingId": 70100858,
+      "price": 38.55,
+      "priceChange": 0.003383654
+    },
+    {
+      "holdingId": 70101113,
+      "price": 40.2757,
+      "priceChange": 0.018348925
+    },
+    {
+      "holdingId": 70101854,
+      "price": 80.53,
+      "priceChange": -0.00898351
+    },
+    {
+      "holdingId": 70102720,
+      "price": 74.36,
+      "priceChange": 0.020867655
+    },
+    {
+      "holdingId": 70102988,
+      "price": 1438,
+      "priceChange": 0.015895443
+    },
+    {
+      "holdingId": 70103180,
+      "price": 200,
+      "priceChange": 0.008115328
+    },
+    {
+      "holdingId": 70103358,
+      "price": 90.9,
+      "priceChange": 0.015642458
+    },
+    {
+      "holdingId": 70103379,
+      "price": 155.4,
+      "priceChange": 0.002580645
+    },
+    {
+      "holdingId": 70104443,
+      "price": 19.17,
+      "priceChange": 0.004716981
+    },
+    {
+      "holdingId": 70104468,
+      "price": 14.3101,
+      "priceChange": -0.006243056
+    },
+    {
+      "holdingId": 70105299,
+      "price": 48.91,
+      "priceChange": 0.014519809
+    },
+    {
+      "holdingId": 70107684,
+      "price": 44.815,
+      "priceChange": -0.001225763
+    },
+    {
+      "holdingId": 70107939,
+      "price": 256.065,
+      "priceChange": 0.045547344
+    },
+    {
+      "holdingId": 70113330,
+      "price": 0,
+      "priceChange": 0
+    }
+   ]

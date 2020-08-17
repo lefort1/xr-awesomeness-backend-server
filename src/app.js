@@ -1,30 +1,30 @@
 import express from 'express';
 import enableWs from 'express-ws';
 
-import * as newsService from './news/news-service';
+import * as newsController from './news/news-controller';
+import * as noteController from './notes/note-controller';
+import * as portfolioController from './portfolio/portfolio-controller';
+import * as priceChangeController from './price-changes/price-change-controller';
 
 const app = express();
 enableWs(app);
 
 
-app.get('/', function(req, res) {
+app.get('/', (req, res) => {
     res.send('Hello World!');
 });
 
-app.ws('/news', (ws, req) => {
-    console.log("opened the news socket");
-    ws.send(JSON.stringify(newsService.getNews()));
+app.get('/porfolio', (req, res) => portfolioController.getPortfolioData(req, res)); // Portfolio
+app.ws('/news', ws => newsController.continuouslyServeNews(ws)); // News
+app.ws('/note', ws => noteController.continuouslyServeNotes(ws)); // Notes
+app.ws('/price-change', ws => priceChangeController.continuouslyServePriceChanges(ws)); // Price Changes
 
-    ws.on('close', () => {
-        console.log('news socket closed');
-    });
-});
-
-app.ws('/echo', (ws, req) => {
+// Sammple 
+app.ws('/', (ws, req) => {
     console.log("opened the echo socket");
 
     ws.on('message', msg => {
-        ws.send(msg);
+        ws.send("Hey, you sent me this: " + msg);
     })
 
     ws.on('close', () => {
@@ -34,5 +34,5 @@ app.ws('/echo', (ws, req) => {
 
 
 app.listen(8080, () => {
-  console.log('Listening on http://localhost:8080');
+    console.log('Listening on http://localhost:8080');
 });
