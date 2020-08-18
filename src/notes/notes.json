@@ -2,6 +2,7 @@
   {
     "noteId": 1,
     "holdingId": 70004106,
+    "noteTitle": "Mgmt Meeting - 07/03/20",
     "region": "Europe",
     "country": "United Kingdom",
     "sector": "Health Care",
@@ -12,6 +13,7 @@
   {
     "noteId": 2,
     "holdingId": 70004106,
+    "noteTitle": "COVID Update - 06/12/20",
     "region": "Europe",
     "country": "United Kingdom",
     "sector": "Health Care",
@@ -22,6 +24,7 @@
   {
     "noteId": 3,
     "holdingId": 70004106,
+    "noteTitle": "COVID Update - 07/01/20",
     "region": "Europe",
     "country": "United Kingdom",
     "sector": "Health Care",
@@ -32,6 +35,7 @@
   {
     "noteId": 4,
     "holdingId": 70002293,
+    "noteTitle": "Earnings - 07/20/20",
     "region": "Asia",
     "country": "South Korea",
     "sector": "Information Technology",
@@ -42,6 +46,7 @@
   {
     "noteId": 5,
     "holdingId": 70002293,
+    "noteTitle": "Mgmt Meeting - 07/27/20",
     "region": "Asia",
     "country": "South Korea",
     "sector": "Information Technology",
