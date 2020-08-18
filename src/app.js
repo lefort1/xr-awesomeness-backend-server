@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
     res.send('Hello World!');
 });
 
-app.get('/porfolio', (req, res) => portfolioController.getPortfolioData(req, res)); // Portfolio
+app.get('/portfolio', (req, res) => portfolioController.getPortfolioData(req, res)); // Portfolio
 app.ws('/news', ws => newsController.continuouslyServeNews(ws)); // News
 app.ws('/note', ws => noteController.continuouslyServeNotes(ws)); // Notes
 app.ws('/price-change', ws => priceChangeController.continuouslyServePriceChanges(ws)); // Price Changes
