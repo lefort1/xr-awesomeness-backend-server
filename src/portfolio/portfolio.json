@@ -57,7 +57,7 @@
     "companyName": "RELX PLC",
     "region": "Europe",
     "country": "United Kingdom",
-    "sector": "Industrials"
+    "sector": "Health Care"
   },
   {
     "holdingId": 70113330,
@@ -67,7 +67,7 @@
     "companyName": "Panalpina Welttransport Holding AG",
     "region": "Europe",
     "country": "Switzerland",
-    "sector": "Industrials"
+    "sector": "Health Care"
   },
   {
     "holdingId": 70002065,
@@ -277,7 +277,7 @@
     "companyName": "Vivendi SA",
     "region": "Europe",
     "country": "France",
-    "sector": "Information Technology"
+    "sector": "Health Care"
   },
   {
     "holdingId": 70002472,
@@ -337,7 +337,7 @@
     "companyName": "Bharti Infratel Ltd",
     "region": "Asia",
     "country": "India",
-    "sector": "Information Technology"
+    "sector": "Health Care"
   },
   {
     "holdingId": 70003777,
