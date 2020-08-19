@@ -1,602 +1,602 @@
 [
-    {
-      "holdingId": 70002293,
-      "weight": 0.041367,
-      "price": 43900,
-      "ticker": "005930 KS",
-      "companyName": "Samsung Electronics Co Ltd",
-      "region": "Asia",
-      "country": "South Korea",
-      "sector": "Information Technology"
-    },
-    {
-      "holdingId": 70005267,
-      "weight": 0.040455,
-      "price": 39.75,
-      "ticker": "ACGL US",
-      "companyName": "Arch Capital Group Ltd",
-      "region": "North America",
-      "country": "United States",
-      "sector": "Financials"
-    },
-    {
-      "holdingId": 70004988,
-      "weight": 0.035477,
-      "price": 2038,
-      "ticker": "CPG LN",
-      "companyName": "Compass Group PLC",
-      "region": "Europe",
-      "country": "United Kingdom",
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "holdingId": 70004750,
-      "weight": 0.028315,
-      "price": 18.065,
-      "ticker": "ABBN SW",
-      "companyName": "ABB Ltd",
-      "region": "Europe",
-      "country": "Switzerland",
-      "sector": "Industrials"
-    },
-    {
-      "holdingId": 70016857,
-      "weight": 0.025871,
-      "price": 10.14,
-      "ticker": "UBSG SW",
-      "companyName": "UBS Group AG",
-      "region": "Europe",
-      "country": "Switzerland",
-      "sector": "Financials"
-    },
-    {
-      "holdingId": 70004604,
-      "weight": 0.024432,
-      "price": 1925.5,
-      "ticker": "REL LN",
-      "companyName": "RELX PLC",
-      "region": "Europe",
-      "country": "United Kingdom",
-      "sector": "Industrials"
-    },
-    {
-      "holdingId": 70113330,
-      "weight": 0.02389,
-      "price": 200,
-      "ticker": "PWTNE SW",
-      "companyName": "Panalpina Welttransport Holding AG",
-      "region": "Europe",
-      "country": "Switzerland",
-      "sector": "Industrials"
-    },
-    {
-      "holdingId": 70002065,
-      "weight": 0.023726,
-      "price": 13.17,
-      "ticker": "VIV US",
-      "companyName": "Telefonica Brasil SA",
-      "region": "South America",
-      "country": "Brazil",
-      "sector": "Communication Services"
-    },
-    {
-      "holdingId": 70003649,
-      "weight": 0.022562,
-      "price": 73.9,
-      "ticker": "CFR SW",
-      "companyName": "Cie Financiere Richemont SA",
-      "region": "Europe",
-      "country": "Switzerland",
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "holdingId": 70003866,
-      "weight": 0.02119,
-      "price": 8.583,
-      "ticker": "INGA NA",
-      "companyName": "ING Groep NV",
-      "region": "Europe",
-      "country": "Netherlands",
-      "sector": "Financials"
-    },
-    {
-      "holdingId": 70005555,
-      "weight": 0.020728,
-      "price": 87.52,
-      "ticker": "NOVN SW",
-      "companyName": "Novartis AG",
-      "region": "Europe",
-      "country": "Switzerland",
-      "sector": "Health Care"
-    },
-    {
-      "holdingId": 70002523,
-      "weight": 0.020505,
-      "price": 216.1,
-      "ticker": "TSCO LN",
-      "companyName": "Tesco PLC",
-      "region": "Europe",
-      "country": "United Kingdom",
-      "sector": "Consumer Staples"
-    },
-    {
-      "holdingId": 70004499,
-      "weight": 0.01964,
-      "price": 107.76,
-      "ticker": "NESN SW",
-      "companyName": "Nestle SA",
-      "region": "Europe",
-      "country": "Switzerland",
-      "sector": "Consumer Staples"
-    },
-    {
-      "holdingId": 70003922,
-      "weight": 0.018987,
-      "price": 45.97,
-      "ticker": "LHN SW",
-      "companyName": "LafargeHolcim Ltd",
-      "region": "Europe",
-      "country": "Switzerland",
-      "sector": "Materials"
-    },
-    {
-      "holdingId": 70004956,
-      "weight": 0.01798,
-      "price": 158.25,
-      "ticker": "AGN US",
-      "companyName": "Allergan PLC",
-      "region": "North America",
-      "country": "United States",
-      "sector": "Health Care"
-    },
-    {
-      "holdingId": 70004726,
-      "weight": 0.017906,
-      "price": 59.26,
-      "ticker": "FME GR",
-      "companyName": "Fresenius Medical Care AG & Co KGaA",
-      "region": "Europe",
-      "country": "Germany",
-      "sector": "Health Care"
-    },
-    {
-      "holdingId": 70002117,
-      "weight": 0.017821,
-      "price": 99.98,
-      "ticker": "SW FP",
-      "companyName": "Sodexo SA",
-      "region": "Europe",
-      "country": "France",
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "holdingId": 70004333,
-      "weight": 0.017073,
-      "price": 1062.75,
-      "ticker": "HCLT IN",
-      "companyName": "HCL Technologies Ltd",
-      "region": "Asia",
-      "country": "India",
-      "sector": "Information Technology"
-    },
-    {
-      "holdingId": 70005616,
-      "weight": 0.01694,
-      "price": 139500,
-      "ticker": "035420 KS",
-      "companyName": "NAVER Corp",
-      "region": "Asia",
-      "country": "South Korea",
-      "sector": "Communication Services"
-    },
-    {
-      "holdingId": 70003640,
-      "weight": 0.016848,
-      "price": 80.92,
-      "ticker": "GBLB BB",
-      "companyName": "Groupe Bruxelles Lambert SA",
-      "region": "Europe",
-      "country": "Belgium",
-      "sector": "Financials"
-    },
-    {
-      "holdingId": 70017053,
-      "weight": 0.016001,
-      "price": 103.56,
-      "ticker": "NXPI US",
-      "companyName": "NXP Semiconductors NV",
-      "region": "North America",
-      "country": "United States",
-      "sector": "Information Technology"
-    },
-    {
-      "holdingId": 70005838,
-      "weight": 0.015997,
-      "price": 96.7,
-      "ticker": "BIDU US",
-      "companyName": "Baidu Inc",
-      "region": "Asia",
-      "country": "China",
-      "sector": "Communication Services"
-    },
-    {
-      "holdingId": 70004614,
-      "weight": 0.014591,
-      "price": 32.66,
-      "ticker": "IMO CN",
-      "companyName": "Imperial Oil Ltd",
-      "region": "North America",
-      "country": "Canada",
-      "sector": "Energy"
-    },
-    {
-      "holdingId": 70003703,
-      "weight": 0.014459,
-      "price": 28.91,
-      "ticker": "CRH ID",
-      "companyName": "CRH PLC",
-      "region": "Europe",
-      "country": "Ireland",
-      "sector": "Materials"
-    },
-    {
-      "holdingId": 70002412,
-      "weight": 0.014176,
-      "price": 49.65,
-      "ticker": "LLOY LN",
-      "companyName": "Lloyds Banking Group PLC",
-      "region": "Europe",
-      "country": "United Kingdom",
-      "sector": "Financials"
-    },
-    {
-      "holdingId": 70004684,
-      "weight": 0.01247,
-      "price": 194.55,
-      "ticker": "WLTW US",
-      "companyName": "Willis Towers Watson PLC",
-      "region": "North America",
-      "country": "United States",
-      "sector": "Financials"
-    },
-    {
-      "holdingId": 70016024,
-      "weight": 0.012122,
-      "price": 64.83,
-      "ticker": "INFO US",
-      "companyName": "IHS Markit Ltd",
-      "region": "North America",
-      "country": "United States",
-      "sector": "Industrials"
-    },
-    {
-      "holdingId": 70002110,
-      "weight": 0.011991,
-      "price": 25.47,
-      "ticker": "VIV FP",
-      "companyName": "Vivendi SA",
-      "region": "Europe",
-      "country": "France",
-      "sector": "Communication Services"
-    },
-    {
-      "holdingId": 70002472,
-      "weight": 0.011909,
-      "price": 182.15,
-      "ticker": "NWG LN",
-      "companyName": "Natwest Group PLC",
-      "region": "Europe",
-      "country": "United Kingdom",
-      "sector": "Financials"
-    },
-    {
-      "holdingId": 70005883,
-      "weight": 0.011653,
-      "price": 89.99,
-      "ticker": "TEL US",
-      "companyName": "TE Connectivity Ltd",
-      "region": "North America",
-      "country": "United States",
-      "sector": "Information Technology"
-    },
-    {
-      "holdingId": 70002896,
-      "weight": 0.011352,
-      "price": 326.4,
-      "ticker": "700 HK",
-      "companyName": "Tencent Holdings Ltd",
-      "region": "Asia",
-      "country": "China",
-      "sector": "Communication Services"
-    },
-    {
-      "holdingId": 70005570,
-      "weight": 0.01016,
-      "price": 110.5,
-      "ticker": "HDB US",
-      "companyName": "HDFC Bank Ltd",
-      "region": "Asia",
-      "country": "India",
-      "sector": "Financials"
-    },
-    {
-      "holdingId": 70005671,
-      "weight": 0.009621,
-      "price": 178.23,
-      "ticker": "V US",
-      "companyName": "Visa Inc",
-      "region": "North America",
-      "country": "United States",
-      "sector": "Information Technology"
-    },
-    {
-      "holdingId": 70017277,
-      "weight": 0.009089,
-      "price": 249.2,
-      "ticker": "BHIN IN",
-      "companyName": "Bharti Infratel Ltd",
-      "region": "Asia",
-      "country": "India",
-      "sector": "Communication Services"
-    },
-    {
-      "holdingId": 70003777,
-      "weight": 0.008483,
-      "price": 268,
-      "ticker": "4689 JP",
-      "companyName": "Z Holdings Corp",
-      "region": "Asia",
-      "country": "Japan",
-      "sector": "Communication Services"
-    },
-    {
-      "holdingId": 70004106,
-      "weight": 0.007976,
-      "price": 7256,
-      "ticker": "AZN LN",
-      "companyName": "AstraZeneca PLC",
-      "region": "Europe",
-      "country": "United Kingdom",
-      "sector": "Health Care"
-    },
-    {
-      "holdingId": 70004239,
-      "weight": 0.007882,
-      "price": 6170,
-      "ticker": "RB/ LN",
-      "companyName": "Reckitt Benckiser Group PLC",
-      "region": "Europe",
-      "country": "United Kingdom",
-      "sector": "Consumer Staples"
-    },
-    {
-      "holdingId": 70012253,
-      "weight": 0.007847,
-      "price": 1.6325,
-      "ticker": "BKIA SM",
-      "companyName": "Bankia SA",
-      "region": "Europe",
-      "country": "Spain",
-      "sector": "Financials"
-    },
-    {
-      "holdingId": 70002279,
-      "weight": 0.007708,
-      "price": 128000,
-      "ticker": "005380 KS",
-      "companyName": "Hyundai Motor Co",
-      "region": "Asia",
-      "country": "South Korea",
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "holdingId": 70005126,
-      "weight": 0.007285,
-      "price": 624.53,
-      "ticker": "MELI US",
-      "companyName": "MercadoLibre Inc",
-      "region": "North America",
-      "country": "United States",
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "holdingId": 70016379,
-      "weight": 0.007184,
-      "price": 174.6,
-      "ticker": "BABA US",
-      "companyName": "Alibaba Group Holding Ltd",
-      "region": "Asia",
-      "country": "China",
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "holdingId": 70102988,
-      "weight": 0.00701,
-      "price": 659.4,
-      "ticker": "ADYEN NA",
-      "companyName": "Adyen NV",
-      "region": "Europe",
-      "country": "Netherlands",
-      "sector": "Information Technology"
-    },
-    {
-      "holdingId": 70012586,
-      "weight": 0.006929,
-      "price": 53.9,
-      "ticker": "669 HK",
-      "companyName": "Techtronic Industries Co Ltd",
-      "region": "Asia",
-      "country": "Hong Kong",
-      "sector": "Industrials"
-    },
-    {
-      "holdingId": 70099812,
-      "weight": 0.006814,
-      "price": 35.42,
-      "ticker": "SE US",
-      "companyName": "Sea Ltd",
-      "region": "Asia",
-      "country": "Singapore",
-      "sector": "Communication Services"
-    },
-    {
-      "holdingId": 70005983,
-      "weight": 0.006813,
-      "price": 76,
-      "ticker": "1299 HK",
-      "companyName": "AIA Group Ltd",
-      "region": "Asia",
-      "country": "Hong Kong",
-      "sector": "Financials"
-    },
-    {
-      "holdingId": 70005982,
-      "weight": 0.006761,
-      "price": 32.88,
-      "ticker": "TAL US",
-      "companyName": "TAL Education Group",
-      "region": "Asia",
-      "country": "China",
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "holdingId": 70002029,
-      "weight": 0.00665,
-      "price": 159.56,
-      "ticker": "NVDA US",
-      "companyName": "NVIDIA Corp",
-      "region": "North America",
-      "country": "United States",
-      "sector": "Information Technology"
-    },
-    {
-      "holdingId": 70002993,
-      "weight": 0.00659,
-      "price": 138.31,
-      "ticker": "FIS US",
-      "companyName": "Fidelity National Information Services Inc",
-      "region": "North America",
-      "country": "United States",
-      "sector": "Information Technology"
-    },
-    {
-      "holdingId": 70003420,
-      "weight": 0.00655,
-      "price": 136.13,
-      "ticker": "MSFT US",
-      "companyName": "Microsoft Corp",
-      "region": "North America",
-      "country": "United States",
-      "sector": "Information Technology"
-    },
-    {
-      "holdingId": 70002404,
-      "weight": 0.00653,
-      "price": 925.6,
-      "ticker": "IMI LN",
-      "companyName": "IMI PLC",
-      "region": "Europe",
-      "country": "United Kingdom",
-      "sector": "Industrials"
-    },
-    {
-      "holdingId": 70003137,
-      "weight": 0.006514,
-      "price": 210.87,
-      "ticker": "LHX US",
-      "companyName": "L3Harris Technologies Inc",
-      "region": "North America",
-      "country": "United States",
-      "sector": "Industrials"
-    },
-    {
-      "holdingId": 70017021,
-      "weight": 0.006392,
-      "price": 1054.6,
-      "ticker": "600519 C1",
-      "companyName": "Kweichow Moutai Co Ltd",
-      "region": "Asia",
-      "country": "China",
-      "sector": "Consumer Staples"
-    },
-    {
-      "holdingId": 70005557,
-      "weight": 0.006156,
-      "price": 342.4,
-      "ticker": "LONN SW",
-      "companyName": "Lonza Group AG",
-      "region": "Europe",
-      "country": "Switzerland",
-      "sector": "Health Care"
-    },
-    {
-      "holdingId": 70002271,
-      "weight": 0.005767,
-      "price": 27.03,
-      "ticker": "BAC US",
-      "companyName": "Bank of America Corp",
-      "region": "North America",
-      "country": "United States",
-      "sector": "Financials"
-    },
-    {
-      "holdingId": 70008458,
-      "weight": 0.005583,
-      "price": 1351,
-      "ticker": "GMAB DC",
-      "companyName": "Genmab A/S",
-      "region": "Europe",
-      "country": "Denmark",
-      "sector": "Health Care"
-    },
-    {
-      "holdingId": 70104443,
-      "weight": 0.005321,
-      "price": 21.06,
-      "ticker": "REN NA",
-      "companyName": "RELX PLC",
-      "region": "Europe",
-      "country": "United Kingdom",
-      "sector": "Industrials"
-    },
-    {
-      "holdingId": 70011501,
-      "weight": 0.005275,
-      "price": 6852,
-      "ticker": "LSE LN",
-      "companyName": "London Stock Exchange Group PLC",
-      "region": "Europe",
-      "country": "United Kingdom",
-      "sector": "Financials"
-    },
-    {
-      "holdingId": 70004089,
-      "weight": 0.005189,
-      "price": 42.15,
-      "ticker": "BSX US",
-      "companyName": "Boston Scientific Corp",
-      "region": "North America",
-      "country": "United States",
-      "sector": "Health Care"
-    },
-    {
-      "holdingId": 70002153,
-      "weight": 0.005113,
-      "price": 68.75,
-      "ticker": "PARG SW",
-      "companyName": "Pargesa Holding SA",
-      "region": "Europe",
-      "country": "Switzerland",
-      "sector": "Financials"
-    },
-    {
-      "holdingId": 70006049,
-      "weight": 0.00505,
-      "price": 36.48,
-      "ticker": "YNDX US",
-      "companyName": "Yandex NV",
-      "region": "Asia",
-      "country": "Russia",
-      "sector": "Communication Services"
-    }
-   ]
+  {
+    "holdingId": 70002293,
+    "weight": 0.041367,
+    "price": 43900,
+    "ticker": "005930 KS",
+    "companyName": "Samsung Electronics Co Ltd",
+    "region": "Asia",
+    "country": "South Korea",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70005267,
+    "weight": 0.040455,
+    "price": 39.75,
+    "ticker": "ACGL US",
+    "companyName": "Arch Capital Group Ltd",
+    "region": "North America",
+    "country": "United States",
+    "sector": "Financials"
+  },
+  {
+    "holdingId": 70004988,
+    "weight": 0.035477,
+    "price": 2038,
+    "ticker": "CPG LN",
+    "companyName": "Compass Group PLC",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70004750,
+    "weight": 0.028315,
+    "price": 18.065,
+    "ticker": "ABBN SW",
+    "companyName": "ABB Ltd",
+    "region": "Europe",
+    "country": "Switzerland",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70016857,
+    "weight": 0.025871,
+    "price": 10.14,
+    "ticker": "UBSG SW",
+    "companyName": "UBS Group AG",
+    "region": "Europe",
+    "country": "Switzerland",
+    "sector": "Financials"
+  },
+  {
+    "holdingId": 70004604,
+    "weight": 0.024432,
+    "price": 1925.5,
+    "ticker": "REL LN",
+    "companyName": "RELX PLC",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70113330,
+    "weight": 0.02389,
+    "price": 200,
+    "ticker": "PWTNE SW",
+    "companyName": "Panalpina Welttransport Holding AG",
+    "region": "Europe",
+    "country": "Switzerland",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70002065,
+    "weight": 0.023726,
+    "price": 13.17,
+    "ticker": "VIV US",
+    "companyName": "Telefonica Brasil SA",
+    "region": "North America",
+    "country": "Brazil",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70003649,
+    "weight": 0.022562,
+    "price": 73.9,
+    "ticker": "CFR SW",
+    "companyName": "Cie Financiere Richemont SA",
+    "region": "Europe",
+    "country": "Switzerland",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70003866,
+    "weight": 0.02119,
+    "price": 8.583,
+    "ticker": "INGA NA",
+    "companyName": "ING Groep NV",
+    "region": "Europe",
+    "country": "Netherlands",
+    "sector": "Financials"
+  },
+  {
+    "holdingId": 70005555,
+    "weight": 0.020728,
+    "price": 87.52,
+    "ticker": "NOVN SW",
+    "companyName": "Novartis AG",
+    "region": "Europe",
+    "country": "Switzerland",
+    "sector": "Health Care"
+  },
+  {
+    "holdingId": 70002523,
+    "weight": 0.020505,
+    "price": 216.1,
+    "ticker": "TSCO LN",
+    "companyName": "Tesco PLC",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70004499,
+    "weight": 0.01964,
+    "price": 107.76,
+    "ticker": "NESN SW",
+    "companyName": "Nestle SA",
+    "region": "Europe",
+    "country": "Switzerland",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70003922,
+    "weight": 0.018987,
+    "price": 45.97,
+    "ticker": "LHN SW",
+    "companyName": "LafargeHolcim Ltd",
+    "region": "Europe",
+    "country": "Switzerland",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70004956,
+    "weight": 0.01798,
+    "price": 158.25,
+    "ticker": "AGN US",
+    "companyName": "Allergan PLC",
+    "region": "North America",
+    "country": "United States",
+    "sector": "Health Care"
+  },
+  {
+    "holdingId": 70004726,
+    "weight": 0.017906,
+    "price": 59.26,
+    "ticker": "FME GR",
+    "companyName": "Fresenius Medical Care AG & Co KGaA",
+    "region": "Europe",
+    "country": "Germany",
+    "sector": "Health Care"
+  },
+  {
+    "holdingId": 70002117,
+    "weight": 0.017821,
+    "price": 99.98,
+    "ticker": "SW FP",
+    "companyName": "Sodexo SA",
+    "region": "Europe",
+    "country": "France",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70004333,
+    "weight": 0.017073,
+    "price": 1062.75,
+    "ticker": "HCLT IN",
+    "companyName": "HCL Technologies Ltd",
+    "region": "Asia",
+    "country": "India",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70005616,
+    "weight": 0.01694,
+    "price": 139500,
+    "ticker": "035420 KS",
+    "companyName": "NAVER Corp",
+    "region": "Asia",
+    "country": "South Korea",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70003640,
+    "weight": 0.016848,
+    "price": 80.92,
+    "ticker": "GBLB BB",
+    "companyName": "Groupe Bruxelles Lambert SA",
+    "region": "Europe",
+    "country": "Belgium",
+    "sector": "Financials"
+  },
+  {
+    "holdingId": 70017053,
+    "weight": 0.016001,
+    "price": 103.56,
+    "ticker": "NXPI US",
+    "companyName": "NXP Semiconductors NV",
+    "region": "North America",
+    "country": "United States",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70005838,
+    "weight": 0.015997,
+    "price": 96.7,
+    "ticker": "BIDU US",
+    "companyName": "Baidu Inc",
+    "region": "Asia",
+    "country": "China",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70004614,
+    "weight": 0.014591,
+    "price": 32.66,
+    "ticker": "IMO CN",
+    "companyName": "Imperial Oil Ltd",
+    "region": "North America",
+    "country": "Canada",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70003703,
+    "weight": 0.014459,
+    "price": 28.91,
+    "ticker": "CRH ID",
+    "companyName": "CRH PLC",
+    "region": "Europe",
+    "country": "Ireland",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70002412,
+    "weight": 0.014176,
+    "price": 49.65,
+    "ticker": "LLOY LN",
+    "companyName": "Lloyds Banking Group PLC",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "sector": "Financials"
+  },
+  {
+    "holdingId": 70004684,
+    "weight": 0.01247,
+    "price": 194.55,
+    "ticker": "WLTW US",
+    "companyName": "Willis Towers Watson PLC",
+    "region": "North America",
+    "country": "United States",
+    "sector": "Financials"
+  },
+  {
+    "holdingId": 70016024,
+    "weight": 0.012122,
+    "price": 64.83,
+    "ticker": "INFO US",
+    "companyName": "IHS Markit Ltd",
+    "region": "North America",
+    "country": "United States",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70002110,
+    "weight": 0.011991,
+    "price": 25.47,
+    "ticker": "VIV FP",
+    "companyName": "Vivendi SA",
+    "region": "Europe",
+    "country": "France",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70002472,
+    "weight": 0.011909,
+    "price": 182.15,
+    "ticker": "NWG LN",
+    "companyName": "Natwest Group PLC",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "sector": "Financials"
+  },
+  {
+    "holdingId": 70005883,
+    "weight": 0.011653,
+    "price": 89.99,
+    "ticker": "TEL US",
+    "companyName": "TE Connectivity Ltd",
+    "region": "North America",
+    "country": "United States",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70002896,
+    "weight": 0.011352,
+    "price": 326.4,
+    "ticker": "700 HK",
+    "companyName": "Tencent Holdings Ltd",
+    "region": "Asia",
+    "country": "China",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70005570,
+    "weight": 0.01016,
+    "price": 110.5,
+    "ticker": "HDB US",
+    "companyName": "HDFC Bank Ltd",
+    "region": "Asia",
+    "country": "India",
+    "sector": "Financials"
+  },
+  {
+    "holdingId": 70005671,
+    "weight": 0.009621,
+    "price": 178.23,
+    "ticker": "V US",
+    "companyName": "Visa Inc",
+    "region": "North America",
+    "country": "United States",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70017277,
+    "weight": 0.009089,
+    "price": 249.2,
+    "ticker": "BHIN IN",
+    "companyName": "Bharti Infratel Ltd",
+    "region": "Asia",
+    "country": "India",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70003777,
+    "weight": 0.008483,
+    "price": 268,
+    "ticker": "4689 JP",
+    "companyName": "Z Holdings Corp",
+    "region": "Asia",
+    "country": "Japan",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70004106,
+    "weight": 0.007976,
+    "price": 7256,
+    "ticker": "AZN LN",
+    "companyName": "AstraZeneca PLC",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "sector": "Health Care"
+  },
+  {
+    "holdingId": 70004239,
+    "weight": 0.007882,
+    "price": 6170,
+    "ticker": "RB/ LN",
+    "companyName": "Reckitt Benckiser Group PLC",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70012253,
+    "weight": 0.007847,
+    "price": 1.6325,
+    "ticker": "BKIA SM",
+    "companyName": "Bankia SA",
+    "region": "Europe",
+    "country": "Spain",
+    "sector": "Financials"
+  },
+  {
+    "holdingId": 70002279,
+    "weight": 0.007708,
+    "price": 128000,
+    "ticker": "005380 KS",
+    "companyName": "Hyundai Motor Co",
+    "region": "Asia",
+    "country": "South Korea",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70005126,
+    "weight": 0.007285,
+    "price": 624.53,
+    "ticker": "MELI US",
+    "companyName": "MercadoLibre Inc",
+    "region": "North America",
+    "country": "United States",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70016379,
+    "weight": 0.007184,
+    "price": 174.6,
+    "ticker": "BABA US",
+    "companyName": "Alibaba Group Holding Ltd",
+    "region": "Asia",
+    "country": "China",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70102988,
+    "weight": 0.00701,
+    "price": 659.4,
+    "ticker": "ADYEN NA",
+    "companyName": "Adyen NV",
+    "region": "Europe",
+    "country": "Netherlands",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70012586,
+    "weight": 0.006929,
+    "price": 53.9,
+    "ticker": "669 HK",
+    "companyName": "Techtronic Industries Co Ltd",
+    "region": "Asia",
+    "country": "Hong Kong",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70099812,
+    "weight": 0.006814,
+    "price": 35.42,
+    "ticker": "SE US",
+    "companyName": "Sea Ltd",
+    "region": "Asia",
+    "country": "Singapore",
+    "sector": "Health Care"
+  },
+  {
+    "holdingId": 70005983,
+    "weight": 0.006813,
+    "price": 76,
+    "ticker": "1299 HK",
+    "companyName": "AIA Group Ltd",
+    "region": "Asia",
+    "country": "Hong Kong",
+    "sector": "Financials"
+  },
+  {
+    "holdingId": 70005982,
+    "weight": 0.006761,
+    "price": 32.88,
+    "ticker": "TAL US",
+    "companyName": "TAL Education Group",
+    "region": "Asia",
+    "country": "China",
+    "sector": "Health Care"
+  },
+  {
+    "holdingId": 70002029,
+    "weight": 0.00665,
+    "price": 159.56,
+    "ticker": "NVDA US",
+    "companyName": "NVIDIA Corp",
+    "region": "North America",
+    "country": "United States",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70002993,
+    "weight": 0.00659,
+    "price": 138.31,
+    "ticker": "FIS US",
+    "companyName": "Fidelity National Information Services Inc",
+    "region": "North America",
+    "country": "United States",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70003420,
+    "weight": 0.00655,
+    "price": 136.13,
+    "ticker": "MSFT US",
+    "companyName": "Microsoft Corp",
+    "region": "North America",
+    "country": "United States",
+    "sector": "Information Technology"
+  },
+  {
+    "holdingId": 70002404,
+    "weight": 0.00653,
+    "price": 925.6,
+    "ticker": "IMI LN",
+    "companyName": "IMI PLC",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70003137,
+    "weight": 0.006514,
+    "price": 210.87,
+    "ticker": "LHX US",
+    "companyName": "L3Harris Technologies Inc",
+    "region": "North America",
+    "country": "United States",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70017021,
+    "weight": 0.006392,
+    "price": 1054.6,
+    "ticker": "600519 C1",
+    "companyName": "Kweichow Moutai Co Ltd",
+    "region": "Asia",
+    "country": "China",
+    "sector": "Health Care"
+  },
+  {
+    "holdingId": 70005557,
+    "weight": 0.006156,
+    "price": 342.4,
+    "ticker": "LONN SW",
+    "companyName": "Lonza Group AG",
+    "region": "Europe",
+    "country": "Switzerland",
+    "sector": "Health Care"
+  },
+  {
+    "holdingId": 70002271,
+    "weight": 0.005767,
+    "price": 27.03,
+    "ticker": "BAC US",
+    "companyName": "Bank of America Corp",
+    "region": "North America",
+    "country": "United States",
+    "sector": "Financials"
+  },
+  {
+    "holdingId": 70008458,
+    "weight": 0.005583,
+    "price": 1351,
+    "ticker": "GMAB DC",
+    "companyName": "Genmab A/S",
+    "region": "Europe",
+    "country": "Denmark",
+    "sector": "Health Care"
+  },
+  {
+    "holdingId": 70104443,
+    "weight": 0.005321,
+    "price": 21.06,
+    "ticker": "REN NA",
+    "companyName": "RELX PLC",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "sector": "Industrials"
+  },
+  {
+    "holdingId": 70011501,
+    "weight": 0.005275,
+    "price": 6852,
+    "ticker": "LSE LN",
+    "companyName": "London Stock Exchange Group PLC",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "sector": "Financials"
+  },
+  {
+    "holdingId": 70004089,
+    "weight": 0.005189,
+    "price": 42.15,
+    "ticker": "BSX US",
+    "companyName": "Boston Scientific Corp",
+    "region": "North America",
+    "country": "United States",
+    "sector": "Health Care"
+  },
+  {
+    "holdingId": 70002153,
+    "weight": 0.005113,
+    "price": 68.75,
+    "ticker": "PARG SW",
+    "companyName": "Pargesa Holding SA",
+    "region": "Europe",
+    "country": "Switzerland",
+    "sector": "Financials"
+  },
+  {
+    "holdingId": 70006049,
+    "weight": 0.00505,
+    "price": 36.48,
+    "ticker": "YNDX US",
+    "companyName": "Yandex NV",
+    "region": "Asia",
+    "country": "Russia",
+    "sector": "Financials"
+  }
+ ]
