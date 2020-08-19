@@ -20,16 +20,6 @@
     "sector": "Financials"
   },
   {
-    "holdingId": 70004988,
-    "weight": 0.035477,
-    "price": 2038,
-    "ticker": "CPG LN",
-    "companyName": "Compass Group PLC",
-    "region": "Europe",
-    "country": "United Kingdom",
-    "sector": "Industrials"
-  },
-  {
     "holdingId": 70004750,
     "weight": 0.028315,
     "price": 18.065,
